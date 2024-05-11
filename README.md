@@ -149,10 +149,10 @@ Publish the website in the LocalHost.
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
+```
 
 ## about.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -255,11 +255,11 @@ Publish the website in the LocalHost.
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
+```
 
 ## product.html:
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -372,9 +372,9 @@ Publish the website in the LocalHost.
 </body>
 </html>
 
-
+```
 ## contact.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -478,6 +478,7 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
+
 
 ## OUTPUT:
 
