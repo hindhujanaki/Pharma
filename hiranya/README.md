@@ -119,8 +119,7 @@ Publish the website in the LocalHost.
 </body>
 </html>
 
-```
-```
+
 ## about.html:
 
 <!DOCTYPE html>
@@ -226,8 +225,7 @@ Publish the website in the LocalHost.
 </body>
 </html>
 
-```
-```
+
 ## product.html:
 
 
@@ -343,9 +341,7 @@ Publish the website in the LocalHost.
 </body>
 </html>
 
-```
 
-```
 ## contact.html:
 
 <!DOCTYPE html>
