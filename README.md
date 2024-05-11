@@ -452,7 +452,7 @@ Publish the website in the LocalHost.
         </form>
       </div>
       <div class="col-md-4">
-        <h2>PharmaPluse</h2>
+        <h2>Life Saver</h2>
         <address>
           <strong>Address:</strong><br>
           Poonamalle Highway, Chennai<br>
@@ -480,17 +480,22 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-## home.html:
-![alt text](<Screenshot 2024-05-11 181434.png>)
 
-## about.html:
-![alt text](<Screenshot 2024-05-11 183701.png>)
 
-## product.html:
-![alt text](<Screenshot 2024-05-11 181702.png>)
+![Screenshot 2024-05-11 181434](https://github.com/hindhujanaki/Pharma/assets/148514666/1155764a-86f3-401e-957f-d2c381ec2835)
 
-## contact.html
-![alt text](<Screenshot 2024-05-11 181731.png>)
+
+![Screenshot 2024-05-11 183701](https://github.com/hindhujanaki/Pharma/assets/148514666/0498b276-8285-4fe8-b232-72eeffc756fa)
+
+
+
+![Screenshot 2024-05-11 181702](https://github.com/hindhujanaki/Pharma/assets/148514666/531baee5-c853-456e-ace0-9d8971679390)
+
+
+
+![image](https://github.com/hindhujanaki/Pharma/assets/148514666/fcb06228-4ae3-4006-8ee4-0c62c4fbd1dd)
+
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
