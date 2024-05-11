@@ -27,11 +27,11 @@ Publish the website in the LocalHost.
 
 ## PROGRAM :
 
-```
-```
+
+
 ## home.html:
 
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
